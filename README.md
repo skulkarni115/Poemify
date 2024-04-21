@@ -11,6 +11,7 @@ Two models (Salesforce BLIP2 and Microsoft GIT) were fine tuned on the MultiM po
 - Salesforce BLIP2: https://drive.google.com/drive/folders/1JnyFf7nmhlIBePM8hIysXW_X1c4hp_XG?usp=sharing
 
 ## Files in Repo
+- Download_Images.ipynb: Download images from URL in JSON file dataset
 - Data_Formatting.ipynb: Initial data structuring and reorganization to ensure compatibility with HuggingFace library
 - Microsoft_Git_finetnue_poem.ipynb: Fine tuning code for Microsoft GIT
 - BLIP2_finetune_poem.ipynb: Fine tuning code for BLIP2
